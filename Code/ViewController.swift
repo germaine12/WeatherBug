@@ -31,7 +31,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate { // Protocal 
     }
     // API constants: URL,AppID
     let weatherBugURL = "http://api.openweathermap.org/data/2.5/weather"
-    let appID = "6b86fb367601eb3de767446604e8174e" // my key
+    let appID = "Your provided Key from API" // my key
     
     
     // Declaring instance variables
